@@ -22,8 +22,7 @@ pod 'JSFunction'
 
 ## Author
 
-OutOfCode, outofcoding@gmail.com
-Bear, mrgamza@gmail.com
+Donghyuk Lee - mrgamza@gmail.com
 
 ## License
 
